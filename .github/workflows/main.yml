@@ -29,7 +29,7 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: true
-          tags: ushamandya/simplewhale:latest
+          tags: 18829962544/testing:tagname
 
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
