@@ -1,2 +1,2 @@
-# dockertest
-flask that will CICD and push to docker
+# docker_test
+this is a test repo for docker CIDI
